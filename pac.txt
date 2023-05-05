@@ -20,6 +20,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".znzmo.com",
         ".chinatax.gov.cn",
         ".tianyancha.com",
         ".zoopda.com",
